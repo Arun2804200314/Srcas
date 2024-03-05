@@ -77,7 +77,7 @@ if __name__ == '__main__':
     try:
         fn = sys.argv[1]
     except:
-        fn = r'C:\Users\Arun\Desktop\building.jpg'
+        fn = r'C:\Users\Arun\Desktop\a_Input.png'
 
     def nothing(*argv):
         pass
