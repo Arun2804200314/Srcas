@@ -1,6 +1,6 @@
 **De-Smoking-De-Hazing-Algorithm**
 
-This project implements a single image dehazing technique in Python. The code's objective is to improve the clarity of photos impacted by fog or air haze. 
+*This project implements a single image dehazing technique in Python. The code's objective is to improve the clarity of photos impacted by fog or air haze. 
 
 *Estimating ambient light and determining the transmission map are the first steps in the dehazing process, which include applying the results to eliminate haze from the original image.
 
